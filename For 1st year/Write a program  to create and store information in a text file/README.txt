@@ -1,0 +1,1 @@
+Write a program  to create and store information in a text file.

@@ -1,0 +1,1 @@
+Write a program  to get the largest element of an array using the function.

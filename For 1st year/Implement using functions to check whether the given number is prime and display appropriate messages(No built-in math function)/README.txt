@@ -1,0 +1,1 @@
+Implement using functions to check whether the given number is prime and display appropriate messages(No built-in math function)

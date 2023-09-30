@@ -1,0 +1,1 @@
+Write a  programming to find out maximum and minimum of some values using function which will return an array.

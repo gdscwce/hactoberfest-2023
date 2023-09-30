@@ -1,0 +1,1 @@
+If the ages of Ram, Shyam, Ajay are input through the keyboard, Write the program to determine the youngest of the three.

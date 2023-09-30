@@ -1,0 +1,1 @@
+Develop a Program to read a number. Check whether it is divisible by 7 or not.

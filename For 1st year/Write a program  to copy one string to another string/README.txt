@@ -1,0 +1,1 @@
+Write a program  to copy one string to another string.

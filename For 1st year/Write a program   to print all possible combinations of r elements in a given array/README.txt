@@ -1,0 +1,1 @@
+Write a program   to print all possible combinations of r elements in a given array.

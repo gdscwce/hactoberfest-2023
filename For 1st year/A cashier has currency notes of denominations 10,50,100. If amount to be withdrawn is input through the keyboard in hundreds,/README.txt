@@ -1,0 +1,1 @@
+A cashier has currency notes of denominations 10,50,100. If amount to be withdrawn is input through the keyboard in hundreds, find total number of currency notes of each denominations the cashier will have to give to the withdrawer.

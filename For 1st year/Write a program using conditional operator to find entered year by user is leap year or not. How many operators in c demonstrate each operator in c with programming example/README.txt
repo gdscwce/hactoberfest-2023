@@ -1,0 +1,1 @@
+Write a program using conditional operator to find entered year by user is leap year or not. How many operators in c demonstrate each operator in c with programming example.

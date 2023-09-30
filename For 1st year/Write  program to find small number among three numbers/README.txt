@@ -1,0 +1,1 @@
+Write  program to find small number among three numbers.

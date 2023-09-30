@@ -1,0 +1,1 @@
+Write a  program to calculate simple and compound interest.

@@ -1,0 +1,1 @@
+Write a program to print all the alphabets using a pointer.

@@ -1,0 +1,1 @@
+Write a program   to find transpose of a given matrix.

@@ -1,0 +1,1 @@
+Write a program  to find the length of a string with and without using library function.Â

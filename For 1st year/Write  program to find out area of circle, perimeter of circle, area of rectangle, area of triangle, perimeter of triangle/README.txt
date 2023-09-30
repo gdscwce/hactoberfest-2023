@@ -1,0 +1,1 @@
+Write  program to find out area of circle, perimeter of circle, area of rectangle, area of triangle, perimeter of triangle.

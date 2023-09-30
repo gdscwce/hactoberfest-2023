@@ -1,0 +1,1 @@
+Write a program   to show the simple structure of a function.

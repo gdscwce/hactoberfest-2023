@@ -1,0 +1,1 @@
+Write a program to receive an integer and find its octal equivalent.

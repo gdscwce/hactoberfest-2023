@@ -1,0 +1,1 @@
+Write a program in  to read any digit, display in the word.Â

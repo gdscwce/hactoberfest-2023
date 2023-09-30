@@ -1,0 +1,1 @@
+Write  program to find maximum and minimum number entered by user among three numbers.

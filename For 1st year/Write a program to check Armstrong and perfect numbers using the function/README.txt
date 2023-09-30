@@ -1,0 +1,1 @@
+Write a program to check Armstrong and perfect numbers using the function.

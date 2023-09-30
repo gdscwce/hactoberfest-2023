@@ -1,0 +1,1 @@
+Write a program  to print individual characters of string in reverse order.

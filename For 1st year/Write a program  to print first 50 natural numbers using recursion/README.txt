@@ -1,0 +1,1 @@
+Write a program  to print first 50 natural numbers using recursion.

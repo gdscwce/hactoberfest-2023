@@ -1,0 +1,1 @@
+Write a program  to merge two arrays of same size sorted in decending order.

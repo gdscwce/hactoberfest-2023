@@ -1,0 +1,1 @@
+If a five-digit number input through keyboard write a program to calculate the sum of its digits (use modulus operator)

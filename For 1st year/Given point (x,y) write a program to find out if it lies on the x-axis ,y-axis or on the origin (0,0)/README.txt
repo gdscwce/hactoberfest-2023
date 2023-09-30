@@ -1,0 +1,1 @@
+Given point (x,y) write a program to find out if it lies on the x-axis ,y-axis or on the origin (0,0)
